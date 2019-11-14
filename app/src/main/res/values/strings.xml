@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name" translatable="false">A1L1_HelloWorld</string>
-    <string name="hello_world">Hello World!</string>
-    <string name="good_morning">Good morning GeekBrains!</string>
-    <string name="good_afternoon">Good afternoon GeekBrains!</string>
-    <string name="good_evening">Good evening GeekBrains!</string>
-    <string name="good_night">Good night GeekBrains!</string>
-</resources>
